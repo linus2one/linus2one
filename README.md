@@ -4,7 +4,7 @@ Data Scientist  Epidemiologist | Microbiologist
 ![](https://komarev.com/ghpvc/?username=linus4one&color=05F26C)
 
 <h2>Proficiencies</h2>
-<ul>Python | R | PowerBi | SQL | MS Excel | SPSS | Stata | GraphPad </ul>
+<li>Python | R | PowerBi | SQL | MS Excel | SPSS | Stata | GraphPad </li>
 
 
 <h2>Peer Reviewed Publications</h2>

@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Linus Ossai-Chidi
-Data Scientist  Epidemiologist | Microbiologist
+Data Scientist | Epidemiologist | Microbiologist
 
 ![](https://komarev.com/ghpvc/?username=linus4one&color=05F26C)
 
